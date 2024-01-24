@@ -1,4 +1,4 @@
-theme: minimal
+theme: jekyll-theme-cayman
 
 # Front Matter Defaults
 defaults:
